@@ -1,0 +1,12 @@
+name = "DriftTemperedSDFP"
+uuid = "8ca392d9-7397-429a-b199-9c66ba704b44"
+version = "0.1.0"
+authors = ["tangxiangong <tangxiangong@gmail.com>"]
+
+[deps]
+Gridap = "56d4f2e9-7ea1-5844-9cf6-b9c51ca7ce8e"
+GridapGmsh = "3025c34a-b394-11e9-2a55-3fee550c04c8"
+
+[compat]
+Gridap = "0.20.8"
+GridapGmsh = "0.7.4"
