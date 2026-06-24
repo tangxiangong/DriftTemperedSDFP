@@ -10,3 +10,9 @@ GridapGmsh = "3025c34a-b394-11e9-2a55-3fee550c04c8"
 [compat]
 Gridap = "0.20.8"
 GridapGmsh = "0.7.4"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
