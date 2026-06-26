@@ -51,5 +51,6 @@ function UnitRectangle(N::Integer)
 end
 
 include("mesh.jl")
+include("coefficient.jl")
 
 end # module DriftTemperedSDFP
