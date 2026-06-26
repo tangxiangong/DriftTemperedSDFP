@@ -52,5 +52,5 @@ end
 
 include("mesh.jl")
 include("coefficient.jl")
-
+include("space.jl")
 end # module DriftTemperedSDFP
